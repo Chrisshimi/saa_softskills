@@ -3,7 +3,8 @@ Projeto feito na escola da nuven no curso de extenção AWS SAA
 
 ## Projeto:
 ## 📝 Projeto:
-A Empresa TechInfo LTDA, uma grande varejista online, está enfrentando dificuldades com a escalabilidade e a disponibilidade de seu sistema atual de TI. Com o aumento das transações online e a expansão de seus serviços digitais, a empresa decidiu migrar para uma solução de nuvem para melhorar a performance, a segurança e a flexibilidade de sua infraestrutura.
+A Empresa TechInfo LTDA, uma grande varejista online, está enfrentando dificuldades com a escalabilidade e a disponibilidade de seu sistema atual de TI. 
+Com o aumento das transações online e a expansão de seus serviços digitais, a empresa decidiu migrar para uma solução de nuvem para melhorar a performance, a segurança e a flexibilidade de sua infraestrutura.
 
 ## Objetivo do Projeto
 ## 🎯 Objetivo do Projeto
@@ -18,4 +19,4 @@ Clientes são “deslogados” de tempo em tempo quando logados;
 - Clientes são “deslogados” de tempo em tempo quando logados;
 
  ## Arquitetura montada
-![Diagrama- Arquitetura](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.svg)
+![Diagrama - Arquitetura](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.svg)
