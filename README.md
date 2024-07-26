@@ -18,4 +18,4 @@ Clientes são “deslogados” de tempo em tempo quando logados;
 - Clientes são “deslogados” de tempo em tempo quando logados;
 
  ## Arquitetura montada
-![Diagrama- Arquitetura](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.drawio)
+![Diagrama- Arquitetura](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.svg)
