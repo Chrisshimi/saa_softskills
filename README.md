@@ -17,7 +17,7 @@ Projeto - AWS SAA - SoftSkill
   A empresa decidiu migrar para uma solução de nuvem para melhorar a performance, a segurança e a flexibilidade de sua infraestrutura.
 
 
-# Projeto
+# Projeto - Solução
   ## Escopo do Projeto
   Implementar uma solução escalável e segura que suporte o crescimento futuro e melhore a experiência do cliente.
   
@@ -41,4 +41,5 @@ Projeto - AWS SAA - SoftSkill
 # Arquitetura Proposta
 
 ![Diagrama - Arquitetura1](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.svg)
+
 ![Diagrama - Arquitetura](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.drawio.svg)
