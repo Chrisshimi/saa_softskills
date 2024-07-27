@@ -1,4 +1,4 @@
-# Proposta de Arquitetura do web comerce
+# Proposta de Arquitetura - Empresa Vithais 
 Projeto - AWS SAA - SoftSkill
 
   ## Visão Atual
