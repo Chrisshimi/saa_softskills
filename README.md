@@ -41,5 +41,3 @@ Projeto - AWS SAA - SoftSkill
 # Arquitetura Proposta
 
 ![Diagrama - Arquitetura1](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.svg)
-
-![Diagrama - Arquitetura](https://github.com/Chrisshimi/saa_softskills/blob/main/Diagrama%20SAASSkills.drawio.svg)
